@@ -1,0 +1,59 @@
+
+
+
+.navbar button{
+
+     width: 70px; height: 30px;
+     border-radius: 12px;
+background-color:rgb(250, 232, 182);
+}
+
+
+.navbar{
+
+  background-color: orange;
+
+
+}
+
+
+.navbar_date{
+
+display:
+flex;
+
+align-items:
+center;
+
+justify-content:
+space-between;
+
+
+
+
+}
+
+
+.logo a{
+font-size:
+35px;
+font-weight:
+550;
+color: rgb(0, 0, 0);
+text-decoration: none;
+margin-left: 25px;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+
+.navbar li{
+list-style: none;
+display: inline-block;
+}
+
+
+.navbar_date li a{
+color: rgb(0, 0, 0); font-size: 18px; font-weight: bold; margin-right: 25px;
+text-decoration: none;
+}
