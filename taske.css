@@ -36,6 +36,7 @@ display: flex;
 flex-wrap:wrap ;
 gap: 50px;
 margin-left: 55px;
+margin-right: 55px;
 }
 
 
@@ -77,5 +78,6 @@ border-radius: 12px;
 
 
 }
+
 
 
